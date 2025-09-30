@@ -1,0 +1,30 @@
+$ssh-keygen
+#hit enter 
+#hit enter twice
+#copy the key location
+
+$cat keylocation.pub
+
+# Copy the key
+
+Goto github - setting - SSH - new ssh key - add title and paste key- ADD
+
+create new repo in github
+
+choose 2nd option of git
+
+$git remote ......
+
+$git remote -v 
+
+$git push origin master 
+# type yes
+
+#Refresh the browser
+
+#see in git
+
+$git log --oneline 
+ 
+
+

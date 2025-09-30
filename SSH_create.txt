@@ -26,5 +26,5 @@ $git push origin master
 
 $git log --oneline 
  
-
+# added line to check pull from remote to local
 

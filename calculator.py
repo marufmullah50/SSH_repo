@@ -1,5 +1,5 @@
 # Simple Calculator in Python
-
+#Add some feature like add  trigonometry , calculus operation and make it run several times by adding reset option
 def add(x, y):
     return x + y
 

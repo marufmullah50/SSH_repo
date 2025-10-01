@@ -29,5 +29,10 @@ $git log --oneline
 # added line to check pull from remote to local
 
 
+<<<<<<< HEAD
 
 # Some changes in local repo without pushing first then change differently in remote
+=======
+**Changes made in Remote repository**
+
+>>>>>>> 17b1374f27598fbcc88c11a9a39f88a22f7c0996

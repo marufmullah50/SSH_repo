@@ -28,3 +28,6 @@ $git log --oneline
  
 # added line to check pull from remote to local
 
+
+**Changes made in Remote repository**
+

@@ -36,3 +36,6 @@ $git log --oneline
 **Changes made in Remote repository**
 
 >>>>>>> 17b1374f27598fbcc88c11a9a39f88a22f7c0996
+
+
+# Changes in branches b1

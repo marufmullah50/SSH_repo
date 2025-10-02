@@ -2,3 +2,4 @@
 Whern theres several branch commit unrelated or separates 
 it create a new branch commit  to and branch all of them to that 
 And make that the master
+lets do some changes

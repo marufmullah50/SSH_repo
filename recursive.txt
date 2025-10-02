@@ -2,3 +2,5 @@
 Whern theres several branch commit unrelated or separates 
 it create a new branch commit  to and branch all of them to that 
 And make that the master
+
+#Now its edited in master branch to make the recursive merge
